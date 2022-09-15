@@ -1,0 +1,51 @@
+-- BASIC COMPUTING CURRICULUM --
+1.0 - Introduction and Curriculum Overview
+2.0 - How to use a computer
+ 2.1 - Keyboard and mouses (an in-depth look)
+  2.1.1 - Keyboard shortcuts and the basics
+  2.1.2 - Keyboard "hacks"
+  2.1.3 - Different types of keyboards
+   2.1.3.1 - Keyboard navigation
+   2.1.3.2 - Keyboard settings
+ 2.2 - User interfaces and navigation
+  2.2.1 - Understanding terminology
+ 2.3 - Operating system navigations
+  2.3.1 - Windows
+  2.3.2 - Linux
+  2.3.3 - Others and miscellaneous
+ 2.4 - Tips and tricks of computers
+  2.4.1 - Failsafe tricks
+ 2.5 - Useful applications and software
+  2.5.1 - Useful applications
+  2.5.2 - Useful websites
+ 2.6 - Safely using a computer (a barebones look)
+  2.6.1 - Finding out suspicious activity
+  2.6.2 - Avoiding viruses and hacks
+  2.6.3 - The basic of protection on a computer
+3.0 - Why Computing?
+ 3.1 - Jobs and oppourtunities
+ 3.2 - The fundamentals and requirements
+4.0 - Computational Thinking
+ 4.1 - 4 Aspects of Computational Thinking
+ 4.2 - Computational Thinking Problems
+  4.2.1 - Advanced CT Problems
+5.0 - Hardware and Software
+ 5.1 - Computing Hardware
+  5.1.1 - Components of a computer
+  5.1.2 - Advanaced components learning
+  5.1.3 - Miscellaneous components and extras
+ 5.2 - Software
+  5.2.1 - Software and hardware interaction
+6.0 - Basic networking and the internet
+ 6.1 - What is the internet?
+  6.1.1 - How does the internet work?
+  6.1.2 - How does a Computer interact on the internet?
+ 6.2 - Large scale operations
+  6.2.1 - Basic preview of databases
+  6.2.2 - Setting up a computing network
+  6.2.3 - IP Addresses and Internet Service Providers
+7.0 - Basic cybersecurity
+ 7.1 - Antivirues and firewalls
+ 7.2 - Spotting suspicious activity
+ 7.3 - Malicious digital threats
+ 7.4 - Removing digital footprints
